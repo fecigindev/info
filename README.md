@@ -8,5 +8,5 @@ info
 ## Treasure Planet 20,000 Leagues Under the Sea (1954)
 ## The City of Lost Children (1995)
 
-[GitHub](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#using-emoji)
+[Basic writing](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#using-emoji)
 
