@@ -7,7 +7,6 @@ info
 ## Atlantis The Lost Empire (2001)
 ## Treasure Planet 20,000 Leagues Under the Sea (1954)
 ## The City of Lost Children (1995)
- 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[GitHub](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#using-emoji)
 
